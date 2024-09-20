@@ -2,7 +2,7 @@
 
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Jovanna R.O a Data Analist : who is passionate about technologies, innovation and fashion.
+I'm Jovanna R.O a Data Analist : who is passionate about sustainability, technologies, innovation and fashion.
 
 
 ### 🤖 Technologies
