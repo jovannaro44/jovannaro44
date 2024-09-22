@@ -24,6 +24,6 @@ Talk to me about
 ### Current Mood:
 <img align="center" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV5anloN3lhODB4dTJ6dHcxYTUwMmx5bDByaTgzcHN5azZzaDZsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif" />
 
-### Me against the machine:
+### Me vs The machine:
 <img align="center" alt="GIF" src="https://media.giphy.com/media/3oEdvdHf6n0US87Tri/giphy.gif?cid=790b7611mjz10up93xnkbutihd7fpo6m16ie8kh1lnmcbgz4&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <img align="center" alt="GIF" src="https://media.giphy.com/media/xoicctrOv5aGw6mCZi/giphy.gif?cid=ecf05e478leqgdfj8oiryhy9xf60bhhz8ae94lrgpmsk8jmk&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> 
