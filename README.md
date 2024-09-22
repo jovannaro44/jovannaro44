@@ -21,5 +21,9 @@ Talk to me about
 [![Linkedin Badge](https://img.shields.io/badge/-Jovanna--RO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jovanna-ro/)](https://www.linkedin.com/in/jovanna-ro/)
 [![Instagram Badge](https://img.shields.io/badge/-@giawithej.ro-%23fb3958?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/giawithej.ro)](https://www.instagram.com/giawithej.ro/)
 
+### Current Mood:
+<img align="center" alt="GIF" src="https://giphy.com/gifs/rexona-rexonaparaguay-rexonapy-VGWewGpkkomPRbz2hj" />
+
+### Other Moods:
 <img align="center" alt="GIF" src="https://media.giphy.com/media/3oEdvdHf6n0US87Tri/giphy.gif?cid=790b7611mjz10up93xnkbutihd7fpo6m16ie8kh1lnmcbgz4&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <img align="center" alt="GIF" src="https://media.giphy.com/media/xoicctrOv5aGw6mCZi/giphy.gif?cid=ecf05e478leqgdfj8oiryhy9xf60bhhz8ae94lrgpmsk8jmk&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> 
