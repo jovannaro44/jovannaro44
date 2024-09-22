@@ -22,7 +22,7 @@ Talk to me about
 [![Instagram Badge](https://img.shields.io/badge/-@giawithej.ro-%23fb3958?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/giawithej.ro)](https://www.instagram.com/giawithej.ro/)
 
 ### Current Mood:
-<img align="center" alt="GIF" src="https://giphy.com/gifs/rexona-rexonaparaguay-rexonapy-VGWewGpkkomPRbz2hj" />
+<img align="center" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV5anloN3lhODB4dTJ6dHcxYTUwMmx5bDByaTgzcHN5azZzaDZsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif" />
 
 ### Other Moods:
 <img align="center" alt="GIF" src="https://media.giphy.com/media/3oEdvdHf6n0US87Tri/giphy.gif?cid=790b7611mjz10up93xnkbutihd7fpo6m16ie8kh1lnmcbgz4&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
